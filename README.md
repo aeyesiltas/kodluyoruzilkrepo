@@ -15,3 +15,6 @@ cd kodluyoruzilkrepo
 code .
 Contributing
 Pull requestler kabul edilir.
+
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/60254814/158025399-f87494e8-d531-4e45-92a6-d210ca1195bc.png">
+
